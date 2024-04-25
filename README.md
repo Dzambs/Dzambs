@@ -37,12 +37,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link]
-
+<div>
 <img src="https://img.shields.io/badge/-CISSP-0052CC?style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-CASP%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
+</div>
 
 ## Projects
 - <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
